@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Web app</string>
+    <string name="log_in">Log In</string>
+    <string name="password">Password</string>
+    <string name="enter">Войти</string>
+    <string name="forEditLog">Введите логин</string>
+    <string name="forEditPas">Введите пароль</string>
+    <string name="registration">Зарегестироваться</string>
+    <string name="exit">Выход</string>
+    <string name="hello_blank_fragment">Hello!</string>
+    <string name = "web">Web</string>
+    <string name = "home">Home</string>
+</resources>
